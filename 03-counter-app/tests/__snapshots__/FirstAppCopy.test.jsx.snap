@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TRest in First app component Must match the snapshot 1`] = `
+<div>
+  <h1>
+    Hello World from React!
+  </h1>
+  <h2>
+    Fragment component
+  </h2>
+  <p>
+    David
+  </p>
+  <p>
+    {"message":"Im an object","name":"objOne"}
+  </p>
+  <p>
+    0
+  </p>
+  <strong>
+    Hello Im a function which receives a name, the name is: David
+  </strong>
+  <h1>
+    This text comes form the props: === 
+  </h1>
+  <h1
+    data-testid="testTitle"
+  >
+    Hello I'm David
+  </h1>
+</div>
+`;
